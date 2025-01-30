@@ -1,0 +1,7 @@
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\bin\Debug\Conversordemedidas_2.exe.config
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\bin\Debug\Conversordemedidas_2.exe
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\bin\Debug\Conversordemedidas_2.pdb
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\obj\Debug\Conversordemedidas_2.csproj.AssemblyReference.cache
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\obj\Debug\Conversordemedidas_2.csproj.CoreCompileInputs.cache
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\obj\Debug\Conversordemedidas_2.exe
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\Conversordemedidas_2\Conversordemedidas_2\obj\Debug\Conversordemedidas_2.pdb
