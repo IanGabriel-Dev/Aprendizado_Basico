@@ -1,0 +1,7 @@
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\obj\Debug\calculadora_2.csproj.AssemblyReference.cache
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\obj\Debug\calculadora_2.csproj.CoreCompileInputs.cache
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\bin\Debug\calculadora_2.exe.config
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\bin\Debug\calculadora_2.exe
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\bin\Debug\calculadora_2.pdb
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\obj\Debug\calculadora_2.exe
+C:\Users\Ian Gabriel\Desktop\Projetos-teste\calculadora_2\calculadora_2\obj\Debug\calculadora_2.pdb
